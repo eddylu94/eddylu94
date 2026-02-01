@@ -15,7 +15,7 @@ Outside of work, I enjoy building side projects and exploring new technologies. 
 
 ## Education
 
-- <img src="mcgill-logo.png" width="16" height="16"> **McGill University**
+- <img src="mcgill-logo.png" width="16" height="16"> **McGill University** — B.Eng, Electrical Engineering
 
 ## Skills
 
