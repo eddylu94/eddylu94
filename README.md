@@ -23,8 +23,8 @@ Outside of work, I enjoy building side projects and exploring new technologies. 
 
 ## Recent Projects
 
-- **[Sleeping with Friends](https://sleepingwithfriends.com)** — A website that gamifies sleep tracking by letting friends compete on sleep metrics through leaderboards and data visualization.
-- **[PlanShare.io](https://planshare.io)** — A platform for finding people to share subscriptions, group orders, and referrals. Built with React, TypeScript, and MongoDB.
+- 🌙 **[Sleeping with Friends](https://sleepingwithfriends.com)** — A website that gamifies sleep tracking by letting friends compete on sleep metrics through leaderboards and data visualization.
+- 👥 **[PlanShare.io](https://planshare.io)** — A platform for finding people to share subscriptions, group orders, and referrals. Built with React, TypeScript, and MongoDB.
 
 ## Connect
 
