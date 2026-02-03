@@ -1,6 +1,6 @@
 # Hi, I'm Eddy 👋
 
-I am a Software Engineer based in the San Francisco Bay Area.
+Engineering Manager and full-stack software engineer based in the San Francisco Bay Area.
 
 Outside of work, I enjoy building side projects and exploring new technologies. I also enjoy playing soccer ⚽ and basketball 🏀, and going snowboarding 🏂.
 
@@ -13,9 +13,10 @@ Outside of work, I enjoy building side projects and exploring new technologies. 
 - <img src="microsoft-logo.png" width="16" height="16"> **Microsoft**
 - <img src="nokia-logo.png" width="16" height="16"> **Nokia**
 
-## Education
+## Projects
 
-- <img src="mcgill-logo.png" width="16" height="16"> **McGill University** — B.Eng, Electrical Engineering
+- 🌙 **[Sleeping with Friends](https://sleepingwithfriends.com)** — A website that gamifies sleep tracking by letting friends compete on sleep metrics through leaderboards and data visualization.
+- 👥 **[PlanShare.io](https://planshare.io)** — A platform for finding people to share subscriptions, group orders, and referrals. Built with React, TypeScript, and MongoDB.
 
 ## Technologies
 
@@ -35,10 +36,9 @@ Outside of work, I enjoy building side projects and exploring new technologies. 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-## Recent Projects
+## Education
 
-- 🌙 **[Sleeping with Friends](https://sleepingwithfriends.com)** — A website that gamifies sleep tracking by letting friends compete on sleep metrics through leaderboards and data visualization.
-- 👥 **[PlanShare.io](https://planshare.io)** — A platform for finding people to share subscriptions, group orders, and referrals. Built with React, TypeScript, and MongoDB.
+- <img src="mcgill-logo.png" width="16" height="16"> **McGill University** — B.Eng, Electrical Engineering
 
 ## Connect
 
