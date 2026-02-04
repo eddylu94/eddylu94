@@ -43,5 +43,5 @@ Outside of work, I enjoy building side projects and exploring new technologies. 
 ## Connect
 
 - [Blog](https://eddylu.com)
-- [LinkedIn](https://linkedin.com/in/eddylu94)
+- [LinkedIn](https://linkedin.com/in/lueddy)
 - [X](https://x.com/eddylu88)
