@@ -20,21 +20,21 @@ Outside of work, I enjoy building side projects and exploring new technologies. 
 
 ## Technologies
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![TypeScript](assets/technologies/typescript.svg)
+![JavaScript](assets/technologies/javascript.svg)
+![React](assets/technologies/react.svg)
+![React Native](assets/technologies/react-native.svg)
+![Java](assets/technologies/java.svg)
+![Go](assets/technologies/go.svg)
+![Scala](assets/technologies/scala.svg)
+![Python](assets/technologies/python.svg)
+![Node.js](assets/technologies/nodejs.svg)
+![AWS](assets/technologies/aws.svg)
+![Airflow](assets/technologies/airflow.svg)
+![Datadog](assets/technologies/datadog.svg)
+![MongoDB](assets/technologies/mongodb.svg)
+![MySQL](assets/technologies/mysql.svg)
+![PostgreSQL](assets/technologies/postgresql.svg)
 
 ## Education
 
