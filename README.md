@@ -15,8 +15,11 @@ Outside of work, I enjoy building side projects and exploring new technologies. 
 
 ## Projects
 
+- 🎯 **[Revere](https://reveregoals.com)** — Set goals, hit milestones, and share wins with friends.
+- 👥 **[PlanShare](https://planshare.io)** — Find people to split subscriptions, deliveries, and referral deals.
+- 📖 **[Friday](https://multiworldlabs.com/friday)** — One good post every Friday. That's it.
+- ⏰ **[Chimey](https://multiworldlabs.com/chimey)** — An offline alarm that makes you solve a few puzzles to dismiss it.
 - 🌙 **[Sleeping with Friends](https://sleepingwithfriends.com)** — A website that gamifies sleep tracking by letting friends compete on sleep metrics through leaderboards and data visualization.
-- 👥 **[PlanShare.io](https://planshare.io)** — A platform for finding people to share subscriptions, group orders, and referrals. Built with React, TypeScript, and MongoDB.
 
 ## Technologies
 
